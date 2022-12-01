@@ -1,1 +1,1 @@
-Here is 0x02 project :)
+Here is another project
